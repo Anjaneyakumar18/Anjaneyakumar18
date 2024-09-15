@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data structures and algorithms and webdevlopment
 - 💞️ I’m looking to collaborate on web development 
 - 📫 How to reach me anjaneyakumar1804@gmail.com and
--      Linkdin https://www.linkedin.com/in/anjaneya-kumar-ramisetty
+- 🔗Linkdin Linkdin https://www.linkedin.com/in/anjaneya-kumar-ramisetty
 - 👨‍💻 </> https://anjaneyakumar18.github.io/profile_page/
 - 😄 Pronouns: He/him
 - 📁 Work : Look into my Github repositories 
