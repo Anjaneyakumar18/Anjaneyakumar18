@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on web development 
 - 📫 How to reach me anjaneyakumar1804@gmail.com and
 - 🔗Linkdin Linkdin https://www.linkedin.com/in/anjaneya-kumar-ramisetty
-- 👨‍💻 </> https://anjaneyakumar18.github.io/profile_page/
+- 👨‍💻 </> https://anjaneyakumar18.github.io/portfolio/
 - 😄 Pronouns: He/him
 - 📁 Work : Look into my Github repositories 
 
