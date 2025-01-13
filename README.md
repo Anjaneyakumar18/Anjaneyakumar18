@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anjaneyakumar18
-- 👀 I’m interested in software devlopment 
-- 🌱 I’m currently learning Data structures and algorithms and webdevlopment
+- 👀 I’m interested in Data science and Web dev
+- 🌱 I’m currently learning Data structures and algorithms and Data science
 - 💞️ I’m looking to collaborate on web development 
 - 📫 How to reach me anjaneyakumar1804@gmail.com and
 - 🔗Linkdin Linkdin https://www.linkedin.com/in/anjaneya-kumar-ramisetty
