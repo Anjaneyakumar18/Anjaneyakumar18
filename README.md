@@ -13,9 +13,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Anjaneyakumar18&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-<div style="width:100%;height:100%;padding:20px 20px 20px 20px;background-color:gray">
 <h1>Success is the sum of small efforts</h1>
-  </div>
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Anjaneyakumar18&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
 
