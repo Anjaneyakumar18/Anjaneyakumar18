@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me:<br> 👋 Hi, I’m @Anjaneyakumar18<br> 👀 I’m interested in Data science and Web dev<br> 🌱 I’m currently learning Data structures and algorithms and Data science<br> 📫 How to reach me anjaneyakumar1804@gmail.com and<br>- 🔗Linkdin Linkdin https://www.linkedin.com/in/anjaneya-kumar-ramisetty<br>- 👨‍💻 </> https://anjaneyakumar18.github.io/portfolio/<br>- 😄 Pronouns: He/him<br>-<br> 📁 Work : Look into my Github repositories
+💫 About Me:<br> 👋 Hi, I’m @Anjaneyakumar18<br> 👀 I’m interested in Data science and Web dev<br> 🌱 I’m currently learning Data structures and algorithms and Data science<br> 📫 How to reach me anjaneyakumar1804@gmail.com and<br>- 🧑‍💻Leetcode https://leetcode.com/u/anjaneyakumar1804/<br>- 🔗Linkdin Linkdin https://www.linkedin.com/in/anjaneya-kumar-ramisetty<br>- 👨‍💻 </> https://anjaneyakumar18.github.io/portfolio/<br>- 😄 Pronouns: He/him<br>-<br> 📁 Work : Look into my Github repositories
 
 
 # 💻 Tech Stack:
