@@ -13,7 +13,9 @@
       📁 Work: Look into my GitHub repositories
     </td>
     <td style="vertical-align: top;">
+      <div style="border-radius: 50%;>
       <img src="https://raw.githubusercontent.com/Anjaneyakumar18/portfolio/main/images/ak2.jpg" alt="Anjaneya Kumar" width="300" height="300" style="border-radius: 50%;" />
+      </div>
     </td>
   </tr>
 </table>
