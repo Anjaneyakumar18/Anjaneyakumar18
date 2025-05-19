@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td style="vertical-align: top; padding-right: 20px; max-width: 60%;">
-      👋 Hi, I’m @Anjaneyakumar18<br>
+      <h2>👋 Hi, I’m @Anjaneyakumar18</h2>
       👀 I’m interested in Data science and Web dev<br>
       🌱 I’m currently learning Data structures and algorithms and Data science<br>
       📫 How to reach me: anjaneyakumar1804@gmail.com<br>
