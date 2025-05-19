@@ -13,7 +13,7 @@
       - 😄 Pronouns: He/him<br>
       📁 Work: Look into my GitHub repositories
     </td>
-    <td style="vertical-align: top;">
+    <td style="vertical-align: top;border-radius:20px;border:2px solid green">
       <img src="https://raw.githubusercontent.com/Anjaneyakumar18/portfolio/main/images/ak2.jpg" alt="Anjaneya Kumar" width="300" height="300" />
     </td>
   </tr>
