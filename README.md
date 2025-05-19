@@ -1,8 +1,7 @@
-# 💫 About Me:
+<h2>💫 About Me:</h2>
 <table>
   <tr>
     <td style="vertical-align: top; padding-right: 20px; max-width: 60%;">
-      <h2>💫 About Me:</h2>
       👋 Hi, I’m @Anjaneyakumar18<br>
       👀 I’m interested in Data science and Web dev<br>
       🌱 I’m currently learning Data structures and algorithms and Data science<br>
@@ -13,11 +12,12 @@
       - 😄 Pronouns: He/him<br>
       📁 Work: Look into my GitHub repositories
     </td>
-    <td style="vertical-align: top;border-radius:20px;border:2px solid green">
-      <img src="https://raw.githubusercontent.com/Anjaneyakumar18/portfolio/main/images/ak2.jpg" alt="Anjaneya Kumar" width="300" height="300" />
+    <td style="vertical-align: top;">
+      <img src="https://raw.githubusercontent.com/Anjaneyakumar18/portfolio/main/images/ak2.jpg" alt="Anjaneya Kumar" width="300" height="300" style="border-radius: 50%;" />
     </td>
   </tr>
 </table>
+
 
 
 
