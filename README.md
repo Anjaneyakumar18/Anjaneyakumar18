@@ -1,43 +1,79 @@
-<h2>💫 About Me:</h2>
-<table>
-  <tr>
-    <td style="vertical-align: top; padding-right: 20px; max-width: 60%;">
-      <h2>👋 Hi, I’m @Anjaneyakumar18</h2>
-      👀 I’m interested in Data science and Web dev<br>
-      🌱 I’m currently learning Data structures and algorithms and Data science<br>
-      📫 How to reach me: anjaneyakumar1804@gmail.com<br>
-      - 🧑‍💻 Leetcode: <a href="https://leetcode.com/u/anjaneyakumar1804/">https://leetcode.com/u/anjaneyakumar1804/</a><br>
-      - 🔗 LinkedIn: <a href="https://www.linkedin.com/in/anjaneya-kumar-ramisetty">https://www.linkedin.com/in/anjaneya-kumar-ramisetty</a><br>
-      - 👨‍💻 Portfolio: <a href="https://anjaneyakumar18.github.io/portfolio/">https://anjaneyakumar18.github.io/portfolio/</a><br>
-      - 😄 Pronouns: He/him<br>
-      📁 Work: Look into my GitHub repositories
-    </td>
-    <td style="vertical-align: top;">
-      <img src="https://raw.githubusercontent.com/Anjaneyakumar18/portfolio/main/images/ak2.jpg" alt="Anjaneya Kumar" width="300" height="300" style="border-radius: 50%;" />
-    </td>
-  </tr>
-</table>
+# 🌟 Anjaneya Kumar
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Anjaneyakumar18/portfolio/main/images/ak2.jpg" alt="Anjaneya Kumar" width="200" height="200" style="border-radius: 50%; border: 4px solid #2a9d8f;" />
+</div>
 
+## 👋 About Me
+Hello! I'm **@Anjaneyakumar18**, a passionate learner diving into **Data Science** and **Web Development**. Here's a bit about me:
 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Anjaneyakumar18&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Anjaneyakumar18&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anjaneyakumar18&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Anjaneyakumar18&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Anjaneyakumar18&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
+- 👀 **Interests**: Data Science, Web Development  
+- 🌱 **Currently Learning**: Data Structures & Algorithms, Data Science  
+- 📫 **Reach Me**: [anjaneyakumar1804@gmail.com](mailto:anjaneyakumar1804@gmail.com)  
+- 🧑‍💻 **Leetcode**: [anjaneyakumar1804](https://leetcode.com/u/anjaneyakumar1804/)  
+- 🔗 **LinkedIn**: [Anjaneya Kumar Ramisetty](https://www.linkedin.com/in/anjaneya-kumar-ramisetty)  
+- 👨‍💻 **Portfolio**: [anjaneyakumar18.github.io/portfolio](https://anjaneyakumar18.github.io/portfolio/)  
+- 😄 **Pronouns**: He/Him  
+- 📁 **Work**: Explore my [GitHub repositories](https://github.com/Anjaneyakumar18?tab=repositories)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Anjaneyakumar18&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💻 Tech Stack
+<div align="center">
+  <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/express.js-404D59?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+</div>
 
-## 🚩Quote
-<h1>❝Success is the sum of small efforts❞</h1>
+---
+
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anjaneyakumar18&theme=dracula&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anjaneyakumar18&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjaneyakumar18&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Anjaneyakumar18&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 🔝 Top Contributed Repositories
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Anjaneyakumar18&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+</div>
+
+---
+
+## 📈 Profile Views
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Anjaneyakumar18&icon=0&color=1" alt="Profile Views" />
+  </a>
+</div>
+
+---
+
+## 🚩 Quote
+> **"Success is the sum of small efforts"**
+
+---
+
+*Crafted with ❤️ using [GPRM](https://gprm.itsvg.in)*
