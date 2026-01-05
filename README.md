@@ -8,7 +8,7 @@
       📫 How to reach me: anjaneyakumar1804@gmail.com<br>
       - 🧑‍💻 Leetcode: <a href="https://leetcode.com/u/anjaneyakumar1804/">https://leetcode.com/u/anjaneyakumar1804/</a><br>
       - 🔗 LinkedIn: <a href="https://www.linkedin.com/in/anjaneya-kumar-ramisetty">https://www.linkedin.com/in/anjaneya-kumar-ramisetty</a><br>
-      - 👨‍💻 Portfolio: <a href="https://anjaneyakumar18.github.io/portfolio/">https://anjaneyakumar18.github.io/portfolio/</a><br>
+      - 👨‍💻 Portfolio: <a href="https://anjaneya-s-portfolio-main.vercel.app/">https://anjaneyakumar18.github.io/portfolio/</a><br>
       - 😄 Pronouns: He/him<br>
       📁 Work: Look into my GitHub repositories
     </td>
