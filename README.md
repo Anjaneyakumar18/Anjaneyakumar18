@@ -2,33 +2,20 @@
 <table>
 <tr>
 <td style="vertical-align: top; padding-right: 20px; max-width: 60%;">
-
 <h2>👋 Hi, I’m @Anjaneyakumar18</h2>
-
-👀 I’m interested in <b>Software Development Engineering (SDE)</b>, <b>Backend Systems</b>, and <b>Machine Learning</b><br>
-🌱 I’m currently strengthening my skills in <b>Data Structures & Algorithms</b>, <b>System Design fundamentals</b>, and <b>applied Machine Learning</b><br>
-💡 Strongest language: <b>Python</b> | Also good with <b>Java</b> and <b>JavaScript</b><br>
-⚙️ Experienced in building <b>scalable backend systems</b>, REST APIs, and full-stack applications<br>
-📫 How to reach me: <b>anjaneyakumar1804@gmail.com</b><br>
-
-- 🧑‍💻 LeetCode: 
-<a href="https://leetcode.com/u/anjaneyakumar1804/">https://leetcode.com/u/anjaneyakumar1804/</a><br>
-
-- 🔗 LinkedIn: 
-<a href="https://www.linkedin.com/in/anjaneya-kumar-ramisetty">https://www.linkedin.com/in/anjaneya-kumar-ramisetty</a><br>
-
-- 👨‍💻 Portfolio: 
-<a href="https://anjaneyakumar18.github.io/portfolio/">https://anjaneyakumar18.github.io/portfolio/</a><br>
-
-- 😄 Pronouns: He/him<br>
-
-📁 Work: Explore my GitHub repositories for <b>SDE projects, backend systems, OOP concepts, and ML experiments</b>
-
+      👀 I’m interested in Data science and Web dev<br>
+      🌱 I’m currently learning Data structures and algorithms and Data science<br>
+      📫 How to reach me: anjaneyakumar1804@gmail.com<br>
+      - 🧑‍💻 Leetcode: <a href="https://leetcode.com/u/anjaneyakumar1804/">https://leetcode.com/u/anjaneyakumar1804/</a><br>
+      - 🔗 LinkedIn: <a href="https://www.linkedin.com/in/anjaneya-kumar-ramisetty">https://www.linkedin.com/in/anjaneya-kumar-ramisetty</a><br>
+      - 👨‍💻 Portfolio: <a href="https://anjaneya-s-portfolio-main.vercel.app/">https://anjaneyakumar18.github.io/portfolio/</a><br>
+      - 😄 Pronouns: He/him<br>
+      📁 Work: Look into my GitHub repositories
 </td>
 </tr>
 </table>
 
-<br>
+
 
 # 💻 Tech Stack:
 
@@ -47,11 +34,9 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-<br>
+
 
 # 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=Anjaneyakumar18&theme=shadow_green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Anjaneyakumar18&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Anjaneyakumar18&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anjaneyakumar18&theme=shadow_green&hide_border=false&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anjaneyakumar18&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
