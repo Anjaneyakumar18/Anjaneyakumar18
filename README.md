@@ -1,57 +1,66 @@
-<h2>💫 About Me:</h2>
-<table>
-  <tr>
-    <td style="vertical-align: top; padding-right: 20px; max-width: 60%;">
-      <h2>👋 Hi, I’m @Anjaneyakumar18</h2>
-      👀 I’m interested in Data science and Web dev<br>
-      🌱 I’m currently learning Data structures and algorithms and Data science<br>
-      📫 How to reach me: anjaneyakumar1804@gmail.com<br>
-      - 🧑‍💻 Leetcode: <a href="https://leetcode.com/u/anjaneyakumar1804/">https://leetcode.com/u/anjaneyakumar1804/</a><br>
-      - 🔗 LinkedIn: <a href="https://www.linkedin.com/in/anjaneya-kumar-ramisetty">https://www.linkedin.com/in/anjaneya-kumar-ramisetty</a><br>
-      - 👨‍💻 Portfolio: <a href="https://anjaneya-s-portfolio-main.vercel.app/">https://anjaneyakumar18.github.io/portfolio/</a><br>
-      - 😄 Pronouns: He/him<br>
-      📁 Work: Look into my GitHub repositories
-    </td>
-   
-  </tr>
-</table>
+<h2>💫 About Me</h2>
 
+<h3>👋 Hi, I’m Anjaneya Kumar (Anjaneyakumar18)</h3>
 
+<p>
+I’m a final-year Computer Science student with a strong passion for <b>Software Development, Backend Systems, and Data Science</b>. 
+I enjoy building scalable applications, writing clean code, and solving challenging problems using strong CS fundamentals.
+</p>
 
-# 💻 Tech Stack:
+<ul>
+  <li>👀 Interests: Software Development, Backend Engineering, Data Science</li>
+  <li>🌱 Currently focused on: <b>DSA, System Design fundamentals, and applied Data Science</b></li>
+  <li>💡 Strongest language: <b>Python</b> | Also comfortable with <b>Java</b> and <b>JavaScript</b></li>
+  <li>⚙️ Experienced with backend frameworks and real-world projects</li>
+  <li>📫 Reach me at: <b>anjaneyakumar1804@gmail.com</b></li>
+</ul>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<p>
+🔗 <b>LeetCode:</b> <a href="https://leetcode.com/u/anjaneyakumar1804/">leetcode.com/u/anjaneyakumar1804</a><br>
+🔗 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/anjaneya-kumar-ramisetty">linkedin.com/in/anjaneya-kumar-ramisetty</a><br>
+🔗 <b>Portfolio:</b> <a href="https://anjaneya-s-portfolio-main.vercel.app/">anjaneyakumar18.github.io/portfolio</a>
+</p>
 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<p>
+📁 Feel free to explore my repositories for <b>projects, OOP concepts, backend systems, and problem-solving work</b>.
+</p>
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<hr>
 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+<h2>💻 Tech Stack</h2>
 
+<p>
+<b>Languages</b><br>
+Python · Java · JavaScript
+</p>
 
+<p>
+<b>Backend & Web</b><br>
+Django · Spring Boot · React · REST APIs
+</p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Anjaneyakumar18&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Anjaneyakumar18&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anjaneyakumar18&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p>
+<b>Databases</b><br>
+MySQL
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Anjaneyakumar18&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+<p>
+<b>Data Science & ML</b><br>
+NumPy · Pandas · Matplotlib · scikit-learn
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Anjaneyakumar18&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
+<p>
+<b>Core CS</b><br>
+Data Structures & Algorithms · OOP · Concurrency & Async Programming
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=Anjaneyakumar18&icon=0&color=0)](https://visitcount.itsvg.in)
+<hr>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2>📊 GitHub Stats</h2>
 
-## 🚩Quote
-<h1>❝Success is the sum of small efforts❞</h1>
+<img src="https://github-readme-stats.vercel.app/api?username=Anjaneyakumar18&theme=shadow_green&hide_border=false" />
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anjaneyakumar18&theme=shadow_green&hide_border=false" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjaneyakumar18&theme=shadow_green&hide_border=false&layout=compact" />
+
